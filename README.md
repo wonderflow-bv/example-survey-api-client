@@ -2,9 +2,9 @@
 
 ## Install
 
-`git clone <>`
+`git clone git@github.com:wonderflow-bv/example-survey-api-client.git`
 
-`cd ...`
+`cd example-survey-api-client`
 
 `npm i`
 
