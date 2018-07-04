@@ -1,0 +1,21 @@
+{
+  "name": "@wonderflow/example-survey-data-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1",
+    "example": "GRAPHQL_ENDPOINT=http://example.wonderflow.co/graphql node examples/api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-request": "^1.6.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "sinon": "^6.1.0",
+    "standard": "^11.0.1"
+  }
+}
