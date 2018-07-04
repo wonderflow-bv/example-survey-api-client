@@ -1,4 +1,6 @@
-# SURVEY-DATA-API
+# EXAMPLE-SURVEY-API-CLIENT
+
+An example of a node.js client for Wonderflow Survey API
 
 ## Install
 
